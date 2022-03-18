@@ -1,2 +1,3 @@
-# simple-typescript-npm-package
-A very simple template for creating npm packages 
+# Simple TS npm package template
+
+This is a **very** simple template for creating npm packages using typescript.
